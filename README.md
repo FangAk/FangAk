@@ -7,13 +7,7 @@
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
-<details>
-<summary>
-  <a href="https://github.com/FangAk"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
-</summary>
-
 #### 👨🏻‍💻 Currently working on:
-
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
@@ -26,6 +20,10 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<details>
+<summary>
+  <a href="https://github.com/FangAk"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+</summary>
 ### Little More About Me  
 
 I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
