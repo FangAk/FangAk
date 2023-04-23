@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## FangAk (Him/He) 🌻
-- 🔭 I’m a Student 
+- 🔭 I’m a Itperson 
 - 👯 I write about technologies that interest me in [My Blog](https://github.com/FangAk).
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
