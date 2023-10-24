@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## FangAk (Him/He) 🌻
-- 🔭 I’m a Itperson 
+- 🔭 I’m a Worker 
 - 👯 I write about technologies that interest me in [My Blog](https://github.com/FangAk).
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
@@ -65,15 +65,3 @@
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
 
 <br></details>
-<!-- footer --!>
-<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
-<p align="center">
-    <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
-    &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
-    &nbsp;&nbsp;
-    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
-    &nbsp;&nbsp;
-   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
-</p>
-<img src="https://imgur.com/rilHVxA.png"/>
